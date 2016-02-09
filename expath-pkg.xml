@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://expath.org/ns/pkg" name="http://existsolutions.com/apps/shakespeare-pm" abbrev="shakespeare-pm" version="0.1" spec="1.0">
+    <title>Shakespeare's Plays</title>
+    <dependency package="http://exist-db.org/apps/shared"/>
+    <dependency package="http://www.tei-c.org/tei-simple"/>
+</package>

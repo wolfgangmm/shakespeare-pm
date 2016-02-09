@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>Shakespeare's Plays</description>
+    <website/>
+    <status/>
+    <license>GNU-LGPL</license>
+    <copyright>true</copyright>
+    <type>application</type>
+    <target>shakespeare-pm</target>
+    <prepare>pre-install.xql</prepare>
+    <finish>post-install.xql</finish>
+    <permissions xmlns:repo="http://exist-db.org/xquery/repo" password="shakes" user="shakes" group="shakes" mode="rw-rw-r--"/>
+</meta>
