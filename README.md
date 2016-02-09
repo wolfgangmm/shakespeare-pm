@@ -5,3 +5,7 @@ This application was generated automatically using the [http://showcases.exist-d
 No data is included in this repo, but you can get the full corpus of texts of the Bodleian First Folio of Shakespeare's plays here: http://firstfolio.bodleian.ox.ac.uk/.
 
 Upload the XML documents into the /data subcollection and the facsimile images into /data/facs.
+
+## Demo
+
+http://showcases.exist-db.org/exist/apps/shakespeare-pm/works/
